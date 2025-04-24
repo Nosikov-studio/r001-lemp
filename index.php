@@ -1,5 +1,5 @@
 <?php
-echo "<center>+++++++++++++PHP <b>and git</b> WORK!!!+++***</center>";
+echo "<center>++++++URA!+++++++PHP <b>and git</b> WORK!!!+++***</center>";
 
 
 $servername = "localhost";
