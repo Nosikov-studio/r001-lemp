@@ -10,3 +10,4 @@
 А также установить приватный ключ (secrets.PKEY), который сопряжен с публичным ключом, лежащим на сервере в файле authorized_keys.
 Для установки приватного ключа (дать имя PKEY), нужно перейти в раздел репозитория Settings -> Security -> Secret and variables -> Actions -> Secrets -> Repository secrets -> New repository secret.
 Даем имя (PKEY), вставляем приватный ключ и сохраняем (add secret).
+ВНИМАНИЕ! Автоматизация вызовет ошибку, если на сервере не установлен rsync.
